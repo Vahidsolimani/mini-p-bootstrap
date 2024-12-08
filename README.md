@@ -7,6 +7,4 @@
 
 - Technologies Used - Html , css , js
 
-- Hooks Used : useState 
-
 - Role - Frontend
